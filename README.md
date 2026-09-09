@@ -59,3 +59,4 @@ Do not maintain both as sources of truth.
 3. Fill `description` (what + when, keywords, max 1024 characters).
 4. Write instructions in `SKILL.md`. Put long reference in `references/`, scripts in `scripts/`. Keep `SKILL.md` under ~500 lines.
 5. List the skill in `AGENTS.md`.
+# AI-starter-pack
